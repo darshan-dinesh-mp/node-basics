@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "first_name": "Vere",
+    "last_name": "Beese",
+    "email": "vbeese0@unc.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Tallie",
+    "last_name": "Nutbrown",
+    "email": "tnutbrown1@youtu.be",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Nikolas",
+    "last_name": "Sweetenham",
+    "email": "nsweetenham2@miibeian.gov.cn",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Addie",
+    "last_name": "Gelly",
+    "email": "agelly3@irs.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Yardley",
+    "last_name": "Beecker",
+    "email": "ybeecker4@webeden.co.uk",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Hughie",
+    "last_name": "Sanford",
+    "email": "hsanford5@wsj.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Francisco",
+    "last_name": "Convery",
+    "email": "fconvery6@dell.com",
+    "gender": "Bigender"
+  },
+  {
+    "id": 8,
+    "first_name": "Hallie",
+    "last_name": "Wenman",
+    "email": "hwenman7@yahoo.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Brooks",
+    "last_name": "Knappitt",
+    "email": "bknappitt8@istockphoto.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Kati",
+    "last_name": "Eriksson",
+    "email": "keriksson9@nyu.edu",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 11,
+    "first_name": "Darshan",
+    "last_name": "Dinesh M P",
+    "email": "darshan@nitte.edu",
+    "gender": "male"
+  }
+]
