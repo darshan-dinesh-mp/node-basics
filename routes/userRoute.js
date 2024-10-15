@@ -11,7 +11,6 @@ route.get("/", (req, res) => {
     return res.json(users);
 });
 
-
 route.post("/", (req, res) => {
     users.push(req.body);
     fs.writeFile(usersFilePath, JSON.stringify(users), (error, data) => {
